@@ -1,4 +1,4 @@
-# **UX CHALLENGE #2**
+# **UX Challenge #2**
 -----
 
 - ### **Objetivo**
